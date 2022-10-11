@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+.btn{
+  background-color: rgb(38, 124, 194);
+  border-radius: 10px;
+  width: 30vw;
+  height: 5vh;
+}
+h1{
+  color: red;
+}
